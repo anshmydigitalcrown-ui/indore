@@ -26,7 +26,7 @@ export function generateLocalBusinessSchema(config: SchemaConfig) {
     "alternateName": "Indore Escort Agency",
     "description": "Professional escort service in Indore offering premium companions and VIP escort services across all major locations in Indore.",
     "url": baseUrl,
-    "telephone": "+919867564994",
+    "telephone": "+919372662471",
     "email": "info@indoreescorts.com",
     "address": {
       "@type": "PostalAddress",
@@ -155,7 +155,7 @@ export function generateOrganizationSchema() {
     "foundingDate": "2020-01-01",
     "contactPoint": {
       "@type": "ContactPoint",
-      "telephone": "+919867564994",
+      "telephone": "+919372662471",
       "contactType": "customer service",
       "areaServed": "IN",
       "availableLanguage": ["Hindi", "English"]
@@ -203,7 +203,7 @@ export function generateServiceSchema(config: SchemaConfig) {
     "availableChannel": {
       "@type": "ServiceChannel",
       "serviceUrl": baseUrl,
-      "servicePhone": "+919867564994",
+      "servicePhone": "+919372662471",
       "availableLanguage": ["Hindi", "English"]
     },
     "hoursAvailable": {

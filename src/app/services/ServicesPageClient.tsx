@@ -64,7 +64,7 @@ export default function ServicesPageClient() {
           <div className="w-full px-4">
             <div className="text-center mb-16">
               <h2 className="text-5xl font-bold bg-gradient-to-r from-pink-600 via-orange-500 to-pink-700 bg-clip-text text-transparent mb-6">
-                Premium Escorts In Indore - Our Services
+                Escorts In Indore - Our Services
               </h2>
             </div>
 
